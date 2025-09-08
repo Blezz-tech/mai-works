@@ -6,6 +6,8 @@
 
 # Курс 1
 
+- [Преподы](./course-1/prepods.md)
+
 - [ОРГ](./course-1/org/index.md)
 - [ОРГ ПЗ](./course-1/org/pz.md)
 - [Правоведение. Обучение служением](./course-1/pravo/index.md)
