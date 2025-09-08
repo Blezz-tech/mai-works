@@ -3,3 +3,6 @@ authors = ["blezz-tech"]
 language = "en"
 src = "src"
 title = "mai works"
+
+[output.html]
+mathjax-support = true
