@@ -10,6 +10,7 @@
 - [ОРГ ПЗ](./course-1/org/pz.md)
 - [Правоведение. Обучение служением](./course-1/pravo/index.md)
 - [Правоведение. Обучение служением ПЗ](./course-1/pravo/seminar.md)
+- [История России](./course-1/history/index.md)
 
 # Курс 2
 
