@@ -8,6 +8,7 @@
 
 - [Преподы](./course-1/prepods.md)
 
+- [Посещение занятий](./course-1/poseshenie.md)
 - [ОРГ](./course-1/org/index.md)
 - [ОРГ ПЗ](./course-1/org/pz.md)
 - [Правоведение. Обучение служением](./course-1/pravo/index.md)
